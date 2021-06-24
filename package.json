@@ -1,20 +1,28 @@
 {
-    "name": "class_survey_v_6_21",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-        "dev": "nodemo index.js",
-        "start": "node app.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "dotenv": "^10.0.0",
-        "express": "^4.17.1",
-        "express-es6-template-engine": "^2.2.3",
-        "pg-promise": "^10.10.2"
-    }
+  "name": "class_survey_v_6_21",
+  "version": "1.0.0",
+  "description": "<!-- markdownlint-disable no-trailing-punctuation no-inline-html --> # Class Survey is BUSTED!!!",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-es6-template-engine": "^2.2.3",
+    "pg-promise": "^10.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshsimon-bit/busted_class_survey.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshsimon-bit/busted_class_survey/issues"
+  },
+  "homepage": "https://github.com/joshsimon-bit/busted_class_survey#readme"
 }
